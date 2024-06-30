@@ -1,4 +1,5 @@
-# Software_Project
+# Software Project (Daily Meeting Telegram Bot)
+
 
 ## Project Description
 
